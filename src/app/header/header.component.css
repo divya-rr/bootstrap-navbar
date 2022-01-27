@@ -1,0 +1,10 @@
+ul{
+    float: right;
+}
+.nav-link .dropdown-toggle{
+    float: right;
+    display: flex;
+}
+.navbar .navbar-nav  #navbarDropdownMenuLink{
+    float: right;
+}
